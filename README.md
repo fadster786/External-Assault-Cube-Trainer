@@ -2,10 +2,10 @@
 
 # Features:
 
-Unlmited AR Ammo \n
-Unlimited Pistol Ammo \n
-Rapidfire (AR & Grenades) \n
-Unlimited Health \n
-Unlimited Armour \n
-Unlimited Grenades \n
+Unlmited AR Ammo 
+Unlimited Pistol Ammo 
+Rapidfire (AR & Grenades) 
+Unlimited Health 
+Unlimited Armour 
+Unlimited Grenades
 

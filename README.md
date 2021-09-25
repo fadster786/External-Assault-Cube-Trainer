@@ -1,11 +1,11 @@
 # External-Assault-Cube-Trainer
 
-# Features:
+Features:
 
 Unlmited AR Ammo 
-Unlimited Pistol Ammo 
-Rapidfire (AR & Grenades) 
-Unlimited Health 
-Unlimited Armour 
-Unlimited Grenades
+<br />Unlimited Pistol Ammo 
+<br />Rapidfire (AR & Grenades) 
+<br />Unlimited Health 
+<br />Unlimited Armour 
+<br />Unlimited Grenades
 
